@@ -2,11 +2,9 @@ use hyper::service::{make_service_fn, service_fn};
 use hyper::{Body, Request, Response};
 use std::convert::Infallible;
 use std::fs;
-use serde_json::json;
-use vercel_runtime::{run, Body, Error, Request, Response, StatusCode};
 
 async fn serve_req(_req: Request<Body>) -> Result<Response<Body>, Infallible> {
-    let html = fs::read_to_string("./src/index.html").expect("Something went wrong reading the file");
+    let html = fs::read_to_string("./api/index.html").expect("Something went wrong reading the file");
     Ok(Response::new(Body::from(html)))
 }
 
@@ -25,11 +23,6 @@ async fn run_server() {
 }
 
 #[tokio::main]
-async fn handler() {
+async fn main() {
     run_server().await;
-}
-
-#[tokio::main]
-async fn main(){
-    run(handler).await
 }

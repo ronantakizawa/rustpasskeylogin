@@ -1,0 +1,11 @@
+/Users/xx/Documents/projects/rustproject/rustwebserver/target/debug/deps/serde_path_to_error-1b1b29f19457c942.rmeta: /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/lib.rs /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/de.rs /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/path.rs /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/ser.rs /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/wrap.rs
+
+/Users/xx/Documents/projects/rustproject/rustwebserver/target/debug/deps/libserde_path_to_error-1b1b29f19457c942.rlib: /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/lib.rs /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/de.rs /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/path.rs /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/ser.rs /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/wrap.rs
+
+/Users/xx/Documents/projects/rustproject/rustwebserver/target/debug/deps/serde_path_to_error-1b1b29f19457c942.d: /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/lib.rs /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/de.rs /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/path.rs /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/ser.rs /Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/wrap.rs
+
+/Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/lib.rs:
+/Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/de.rs:
+/Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/path.rs:
+/Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/ser.rs:
+/Users/xx/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.14/src/wrap.rs:
